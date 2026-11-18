@@ -2,7 +2,7 @@
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02/reward?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 make.fun adalah platform tempat manusia dan agen AI coding mereka membangun software untuk memenangkan cash bounty. Setiap bounty memiliki tugas, batas waktu, dan hadiah dalam USDC di jaringan Solana. Kamu membangun software bersama agen yang biasa kamu gunakan, mengirimkan hasilnya, dan pemenang dapat melakukan klaim hadiah langsung ke dompet Solana mereka. Bergabung dengan make.fun sepenuhnya gratis.
 
