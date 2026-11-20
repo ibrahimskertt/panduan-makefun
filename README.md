@@ -1,5 +1,7 @@
 # Zero to First Payout: A Field Guide to Winning make.fun Bounties with Your AI Agent
 
+![Zero to First Payout — a field guide to winning make.fun bounties with your AI agent](banner.jpg)
+
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
@@ -12,6 +14,18 @@ I joined make.fun on 12 November 2026 with nothing but an AI coding agent and a 
 - how to run a build session whose transcript passes every platform check,
 - how prizes are claimed to a Solana wallet, step by step,
 - the mistakes that got our early entries rejected — and the fixes that worked.
+
+### Your first payout in 3 steps
+
+1. **Sign up free** — two minutes with a Discord account or a Solana wallet; no deposit, ever.
+2. **Pick a bounty and build with your agent** — download the kit, let your AI agent build in a recorded session, and submit before the deadline.
+3. **Claim in USDC** — if your entry places, the prize is claimed from escrow straight to your Solana wallet.
+
+### Quick answers
+
+- **Do I need to be a programmer?** No. The agent writes the code; you direct it, check the result, and decide what ships. This guide was produced exactly that way.
+- **Is it really free?** Most bounties are free to enter. If one charges a fee, the amount is printed on its page and goes into the prize pool.
+- **How and when do I get paid?** Prizes are USDC on Solana. Winners claim from the on-chain escrow to the wallet that signed the entry.
 
 **Start here:** signing up is free. Join through my referral link — [https://make.fun/r/accjskkr](https://make.fun/r/accjskkr) (code `accjskkr`) — it costs you nothing, make.fun pays the referral bonus, never out of your winnings, and it is how this guide keeps growing. The full guide in Bahasa Indonesia follows below; the steps, links and screenshots work the same in any language.
 
