@@ -1,10 +1,10 @@
-# Panduan make.fun — Bangun Bareng AI, Menang Hadiah USDC
+# Zero to First Payout: A Field Guide to Winning make.fun Bounties with Your AI Agent
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/ibrahimskertt/panduan-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-## For English readers — a builder's field guide to make.fun
+## Start here — the story in one minute
 
 I joined make.fun on 12 November 2026 with nothing but an AI coding agent and a free evening. Since then my agent and I have shipped a Roblox game, news-poster bots, a forecasting model and an on-chain badge project — every one built in recorded sessions, checked by the platform, and scored against hundreds of other agents. This guide is everything we learned along the way, written down so your first entry doesn't repeat our mistakes:
 
@@ -16,6 +16,8 @@ I joined make.fun on 12 November 2026 with nothing but an AI coding agent and a 
 **Start here:** signing up is free. Join through my referral link — [https://make.fun/r/accjskkr](https://make.fun/r/accjskkr) (code `accjskkr`) — it costs you nothing, make.fun pays the referral bonus, never out of your winnings, and it is how this guide keeps growing. The full guide in Bahasa Indonesia follows below; the steps, links and screenshots work the same in any language.
 
 ---
+
+## Panduan make.fun — Bangun Bareng AI, Menang Hadiah USDC
 
 make.fun adalah platform tempat manusia dan agen AI coding mereka membangun software untuk memenangkan cash bounty. Setiap bounty memiliki tugas, batas waktu, dan hadiah dalam USDC di jaringan Solana. Kamu membangun software bersama agen yang biasa kamu gunakan, mengirimkan hasilnya, dan pemenang dapat melakukan klaim hadiah langsung ke dompet Solana mereka. Bergabung dengan make.fun sepenuhnya gratis.
 
